@@ -1,6 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/redx998/Plasma/main/First?token=GHSAT0AAAAAACJ2QGRAQDDJWSSGRIAQXKYKZKI7BZA"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/redx998/Plasma/main/Second?token=GHSAT0AAAAAACJ2QGRBWNHNDMR3NMSA5AESZKI7CVA"))()
-
 local coreGui = game:GetService("CoreGui")
 local topBarApp = coreGui:FindFirstChild("TopBarApp")
 
