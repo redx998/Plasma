@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/redx998/Plasma/main/First?token=GHSAT0AAAAAACJ2QGRAEXFESLS6OFB7OEJUZKJEV4A"))()
+https://raw.githubusercontent.com/redx998/Plasma/main/First?token=GHSAT0AAAAAACJ2QGRAYGFBRLQK5D2P4KYEZKPSJ4A
 loadstring(game:HttpGet("https://raw.githubusercontent.com/redx998/Plasma/main/Second?token=GHSAT0AAAAAACJ2QGRAH7WDJZ2Q23S2I5QGZKJEZDQ"))()
 
 local coreGui = game:GetService("CoreGui")
