@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/h4xal0t/mewhen/main/Protected_2166183960430963.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/redx998/Plasma/main/Auto"))()
 
 local screenGui = Instance.new("ScreenGui")
 screenGui.ResetOnSpawn = false
